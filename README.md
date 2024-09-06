@@ -1,2 +1,2 @@
 # workpads.org
-Homepage for Workpads Project
+Website for Workpads Project
